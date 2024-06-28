@@ -1,0 +1,3 @@
+org/hdcd/comment/domain/entity/QComment.class
+org/hdcd/comment/domain/infra/CommentCommandService.class
+org/hdcd/comment/domain/representation/CommentSearch.class
